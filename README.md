@@ -16,6 +16,13 @@ Each list includes a table of contents for quick navigation, short descriptions 
 
 Community feedback helps add, remove, or update entries.
 
+- hs2-free-plugins.md — Free plugins, actively updated
+- hs2-paid-plugins.md — Paid plugins, actively updated
+- hs2-abandoned-plugins.md — Abandoned plugins
+- hs2-free-tools.md — Free tools, actively developed
+- hs2-paid-tools.md — Paid tools, actively developed
+- hs2-abandoned-tools.md — Abandoned tools
+
 ### Shortcut Cheat-Sheet
 
 A wallpaper-sized cheat-sheet in multiple sizes and formats, plus the original Draw.io source file. Includes sections for Ren'Py and VSCode in case you use those tools alongside HS2.
