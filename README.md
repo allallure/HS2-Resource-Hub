@@ -16,12 +16,16 @@ Each list includes a table of contents for quick navigation, short descriptions 
 
 Community feedback helps add, remove, or update entries.
 
-- hs2-free-plugins.md — Free plugins, actively updated
-- hs2-paid-plugins.md — Paid plugins, actively updated
+**PLugins Lists**
+- hs2-free-plugins.md — Free plugins, maintained
+- hs2-paid-plugins.md — Paid plugins, maintained
 - hs2-abandoned-plugins.md — Abandoned plugins
-- hs2-free-tools.md — Free tools, actively developed
-- hs2-paid-tools.md — Paid tools, actively developed
+**Tools Lists**
+- hs2-free-tools.md — Free tools, maintained
+- hs2-paid-tools.md — Paid tools, maintained
 - hs2-abandoned-tools.md — Abandoned tools
+**Other Lists**
+- hs2-shortcuts.md - categorized list of shortcuts added by the different plugins and tools.
 
 ### Shortcut Cheat-Sheet
 
